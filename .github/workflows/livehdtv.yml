@@ -85,4 +85,4 @@ jobs:
           files: |
             fr/lci-livehdtv.m3u fr/m6-livehdtv.m3u8 fr/w9-livehdtv.m3u8 fr/6ter-livehdtv.m3u8 fr/cstar-livehdtv.m3u8 fr/artvfr-livehdtv.m3u8
         env:
-          GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.LIVEHDTV_TOKEN }}
