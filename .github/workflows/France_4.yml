@@ -16,10 +16,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "Félix"
+          git config --global user.name "d32k18"
       
       - name: Update France_4
-        run: python3 Stream/Python/France_4.py > Stream/Live/France_4.m3u8
+        run: python3 dm/France_4.py > dm/France_4.m3u8
         
       - name: git add
         run: |
