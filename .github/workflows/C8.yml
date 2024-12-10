@@ -16,10 +16,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "Félix"
+          git config --global user.name "<>"
       
       - name: Update C8
-        run: python3 iptv/dm/C8.py > iptv/dm/C8.m3u8
+        run: python3 dm/C8.py > dm/C8.m3u8
         
       - name: git add
         run: |
