@@ -3,7 +3,6 @@ name: C8
 on:
   schedule:
     - cron: '08 */3 * * *'
-  
   workflow_dispatch:
 
 jobs:
