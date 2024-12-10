@@ -30,4 +30,4 @@ jobs:
         run: |
           git pull origin main
           git commit -m "Update" -m "C8"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/d32k18/iptv.git main
+          git push https://x-access-token:${{ secrets.LIVEHDTV_TOKEN }}@github.com/d32k18/iptv.git main
