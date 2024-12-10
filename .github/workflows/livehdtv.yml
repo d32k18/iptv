@@ -29,45 +29,45 @@ jobs:
 
       - name: Run Python Script lci
         run: |
-         python_output=$(python fr/py/lci-livehdtv.py)
-         echo "#EXTM3U" > fr/py/lci-livehdtv.m3u
-         echo "#EXTINF:-1, LCI" >> fr/py/lci-livehdtv.m3u
-         echo "$python_output" >> fr/py/lci-livehdtv.m3u  
+         python_output=$(python py/lci-livehdtv.py)
+         echo "#EXTM3U" > py/lci-livehdtv.m3u
+         echo "#EXTINF:-1, LCI" >> py/lci-livehdtv.m3u
+         echo "$python_output" >> py/lci-livehdtv.m3u  
 
       - name: Run Python Script m6
         run: |
-         python_output=$(python fr/py/m6-livehdtv.py)
+         python_output=$(python py/m6-livehdtv.py)
          curl_output2=$(curl -s -e "https://www.livehdtv.net" -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" "$python_output")
          curl_output3=$(echo "$curl_output2" | sed 's|tracks-|https://livetvde.net/m6/tracks-|g')
-         echo "$curl_output3" > fr/py/m6-livehdtv.m3u8
+         echo "$curl_output3" > py/m6-livehdtv.m3u8
 
       - name: Run Python Script w9
         run: |
-         python_output=$(python fr/py/w9-livehdtv.py)
+         python_output=$(python py/w9-livehdtv.py)
          curl_output2=$(curl -s -e "https://www.livehdtv.net" -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" "$python_output")
          curl_output3=$(echo "$curl_output2" | sed 's|tracks-|https://livetvde.net/w9/tracks-|g')
-         echo "$curl_output3" > fr/py/w9-livehdtv.m3u8
+         echo "$curl_output3" > py/w9-livehdtv.m3u8
 
       - name: Run Python Script 6ter
         run: |
-         python_output=$(python fr/py/6ter-livehdtv.py)
+         python_output=$(python py/6ter-livehdtv.py)
          curl_output2=$(curl -s -e "https://www.livehdtv.net" -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" "$python_output")
          curl_output3=$(echo "$curl_output2" | sed 's|tracks-|https://livetvde.net/6ter/tracks-|g')
-         echo "$curl_output3" > fr/py/6ter-livehdtv.m3u8
+         echo "$curl_output3" > py/6ter-livehdtv.m3u8
 
       - name: Run Python Script artvfr
         run: |
-         python_output=$(python fr/py/artvfr-livehdtv.py)
+         python_output=$(python py/artvfr-livehdtv.py)
          curl_output2=$(curl -s -e "https://www.livehdtv.net" -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" "$python_output")
          curl_output3=$(echo "$curl_output2" | sed 's|tracks-|https://livetvde.net/artvfr/tracks-|g')
-         echo "$curl_output3" > fr/py/artvfr-livehdtv.m3u8
+         echo "$curl_output3" > py/artvfr-livehdtv.m3u8
 
       - name: Run Python Script cstar
         run: |
-         python_output=$(python fr/py/cstar-livehdtv.py)
+         python_output=$(python py/cstar-livehdtv.py)
          curl_output2=$(curl -s -e "https://www.livehdtv.net" -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" "$python_output")
          curl_output3=$(echo "$curl_output2" | sed 's|tracks-|https://livetvde.net/cstar/tracks-|g')
-         echo "$curl_output3" > fr/py/cstar-livehdtv.m3u8
+         echo "$curl_output3" > py/cstar-livehdtv.m3u8
 
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v7
@@ -75,11 +75,11 @@ jobs:
           commit_message: "Update m3u8 files"
           branch: main
           add: |
-            fr/lci-livehdtv.m3u
-            fr/m6-livehdtv.m3u8
-            fr/w9-livehdtv.m3u8
-            fr/6ter-livehdtv.m3u8
-            fr/cstar-livehdtv.m3u8
-            fr/artvfr-livehdtv.m3u8
+            m3u8/lci-livehdtv.m3u
+            m3u8/m6-livehdtv.m3u8
+            m3u8/w9-livehdtv.m3u8
+            m3u8/6ter-livehdtv.m3u8
+            m3u8/cstar-livehdtv.m3u8
+            m3u8/artvfr-livehdtv.m3u8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
