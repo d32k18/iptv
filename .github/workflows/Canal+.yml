@@ -16,10 +16,10 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "Félix"
+          git config --global user.name "d32k18"
       
       - name: Update Canal+
-        run: python3 Stream/Python/Canal+.py > Stream/Live/Canal+.m3u8
+        run: python3 dm/Canal+.py > dm/Canal+.m3u8
         
       - name: git add
         run: |
