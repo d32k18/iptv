@@ -24,13 +24,13 @@ def generate_m3u8_content(streamlink_url):
             )
             return m3u8_content
         else:
-            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("")
             print("\n")
             print("#Error: Streamlink: stdout:", result.stdout.strip())
             return None
 
     except Exception as e:
-        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("")
         print("\n")
         print(f"#Error: {e}")
         return None
