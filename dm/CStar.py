@@ -9,7 +9,7 @@ if len(sys.argv) == 2:
                 'https' : sys.argv[1]
               }
 
-na = 'https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4'
+na = ''
 def grab(line):
     try:
         _id = line.split('/')[4]
@@ -36,7 +36,7 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-with open('Stream/Info/CStar.txt') as f:
+with open('dm/CStar.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
