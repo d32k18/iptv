@@ -15,13 +15,13 @@ jobs:
       - name: Config Git
         run: |
           git config --global user.email "<>"
-          git config --global user.name "Félix"
+          git config --global user.name "d32k18"
 
       - name: Install Dependencies
         run: sudo apt-get update && sudo apt-get install -y openvpn && pip install streamlink
 
       - name: Update Gulli
-        run: python3 Stream/Python/Gulli.py > Stream/Live/Gulli.m3u8
+        run: python3 dm/Gulli.py > dm/Gulli.m3u8
 
       - name: Git Add
         run: |
