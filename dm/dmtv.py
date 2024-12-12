@@ -13,7 +13,26 @@ def snif(line):
     
     return m3u
 
-output_directory = 'iptv/m3u8'
+output_directory = 'm3u8'
+os.makedirs(output_directory, exist_ok=True)
+
+with open('dm/dmtv.txt') as f:
+    current_category = None
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        elif line.startswith('#'):
+            current_category = line[1:]
+        elif line.startswith('https://'):
+            if current_category:
+                file_name = f"{current_category.strip()}.m3u8"
+                file_path = os.path.join(output_directory, file_name)
+                m3u_content = snif(line)
+                with open(file_path, 'w') as file:
+                    file.write(m3u_content)
+
+output_directory = 'dm'
 os.makedirs(output_directory, exist_ok=True)
 
 with open('dm/dmtv.txt') as f:
