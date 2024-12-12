@@ -3,7 +3,6 @@ name: DMTV
 on:
   schedule:
     - cron: '44 */4 * * *'
-  
   workflow_dispatch:
 
 jobs:
@@ -19,12 +18,14 @@ jobs:
           git config --global user.name "DMTV bot"
       
       - name: grab m3u files
-        run: python3 iptv/dm/dmtv.py
-        
+        run: |
+          cd iptv/dm  # Naviguer vers le bon répertoire où se trouve dmtv.py
+          python3 dmtv.py  # Exécuter le script
+
       - name: git add
         run: |
           git add -A
-          ls -la 
+          ls -la
           
       - name: commit & push
         run: |
