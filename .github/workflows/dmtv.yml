@@ -1,0 +1,33 @@
+name: DMTV
+
+on:
+  schedule:
+    - cron: '44 */4 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "DMTV bot"
+      
+      - name: grab m3u files
+        run: python3 iptv/dm/dmtv.py
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull
+          git commit -m "dmtv updated"
+          git push
