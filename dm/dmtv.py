@@ -16,7 +16,7 @@ def snif(line):
 output_directory = 'iptv/m3u8'
 os.makedirs(output_directory, exist_ok=True)
 
-with open('iptv/dm/dmtv.txt') as f:
+with open('dm/dmtv.txt') as f:
     current_category = None
     for line in f:
         line = line.strip()
