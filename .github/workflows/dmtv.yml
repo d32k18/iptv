@@ -1,8 +1,9 @@
-name: DMTV
+name: dmtv
 
 on:
   schedule:
     - cron: '44 */4 * * *'
+  
   workflow_dispatch:
 
 jobs:
@@ -17,21 +18,13 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "DMTV bot"
       
-      - name: Debug: Lister les fichiers dans le répertoire
-        run: |
-          ls -la  # Lister les fichiers à la racine du dépôt
-          ls -la iptv  # Lister les fichiers dans le répertoire 'iptv'
-          ls -la iptv/dm  # Lister les fichiers dans le répertoire 'iptv/dm'
-
       - name: grab m3u files
-        run: |
-          cd ../dm  # Naviguer dans le répertoire iptv/dm (le '../' est nécessaire car le fichier dmtv.yml est dans iptv/workflows)
-          python3 dmtv.py  # Exécuter le script Python
-
+        run: python3 dm/dmtv.py
+        
       - name: git add
         run: |
           git add -A
-          ls -la
+          ls -la 
           
       - name: commit & push
         run: |
