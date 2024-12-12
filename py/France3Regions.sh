@@ -1,6 +1,6 @@
 #!/bin/bash
 
-input_file="py/France3_IleDeFrance.m3u8"
+input_file="m3u8/France3_IleDeFrance.m3u8"
 output_dir="m3u8"
 
 if [ ! -f "$input_file" ]; then
