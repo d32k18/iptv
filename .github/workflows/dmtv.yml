@@ -16,7 +16,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "DMTV bot"
+          git config --global user.name "admin bot"
       
       - name: grab m3u files
         run: python3 dm/dmtv.py
