@@ -16,7 +16,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "d32k18"
+          git config --global user.name "admin bot"
       
       - name: Update franceinfo to m3u8
         run: python3 dm/franceinfo.py > m3u8/franceinfo.m3u8    
