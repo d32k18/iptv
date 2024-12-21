@@ -14,8 +14,8 @@ jobs:
 
       - name: config
         run: |
-          git config --global user.email "youremail@example.com"  # Remplacez par votre email
-          git config --global user.name "d32k18"  # Remplacez par votre nom GitHub
+          git config --global user.email "<>"
+          git config --global user.name "admin bot"
 
       - name: Update C8 to m3u8
         run: python3 dm/C8.py > m3u8/C8.m3u8
