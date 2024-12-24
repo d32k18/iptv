@@ -1,0 +1,112 @@
+#EXTM3U
+
+####################################################################################
+#								Copyright (c)                                      #
+#       __________   __  ___      _____ __                            _            #
+#  ____/ /__  /__ \ / /_|__ \    / ___// /_________  ____ _____ ___  (_)___  ____ _#
+# / __  / /_ <__/ // //_/_/ /    \__ \/ __/ ___/ _ \/ __ `/ __ `__ \/ / __ \/ __ `/#
+#/ /_/ /___/ / __// ,< / __/    ___/ / /_/ /  /  __/ /_/ / / / / / / / / / / /_/ / # 
+#\__,_//____/____/_/|_/____/   /____/\__/_/   \___/\__,_/_/ /_/ /_/_/_/ /_/\__, /  # 
+#                                                                         /____/   #  
+#								 2002 - 2024                                       #
+####################################################################################
+
+
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Euronews
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", France Info
+https://live-b.cf.dmcdn.net/sec2(JMJfpCGFthHv2NT7avh6fV-hrdwnzhjuhki264RMbYdnB46mXUgErLAy9ZnVwIrCvOCj_J8qjs7Z5zzkve8lThQI-tnuWZpSNdjdC3U8linOXrdAtDFkS6sM5Al6tBjr)/dm/3/x4rdeu6/d/live-380.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", BFM TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", La Chaine L'Equipe
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", CNEWS
+https://live-b.cf.dmcdn.net/sec2(I5U2nMu4xgunYyNm6q5FfCWKUvBgoMo-z9GryUtx59Cfz0zqDIyv62ts-jx-ja03QEyEBHOTtlKxtofuy_3gcsbY2Asoa-OwEN-rSaCLHkAthcZbtpBTsctHIgXSdci3)/dm/3/x3b68jn/d/live-380.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", C8
+https://live-c.cf.dmcdn.net/sec2(g0S00VRKa1V6j2bYLF7P8hhvi2plomPypC-aARCZxU8iMLcRcysmnW3-Qxh78S2TI6KrTNPG7Bzn8Xz-oHvTLQU1UudOy0I6Hyrq1OLEwc2Fm2A3LQ-YCmrgN9xtlBjb)/dm/3/x5idx4k/d/live-380.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Canal +
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RTL (video feed of radio channel)
+https://live-c2.cf.dmcdn.net/sec2(d_QMpPJRn-JBiOc_5aq8RgWUIwRo-e77QtaSvLhGpHVjgbw7heXkh7zY77hyErrixwnngGcG7vyXmdO2cqlyYz2D0jeOv5_5dtVEw_EE-cm1qAP8yqfuAwP_vXftexRz)/cloud/3/x7rkctx/s/live-1080.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LCP (TNT)
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LCP (100%)
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Public Senat
+https://live-c.cf.dmcdn.net/sec2(F3FiHwaB0L9tz979K9vwPrH6KOOsL4ZqobH7RuYJQLGTptYjltTg2r8swrT_dCadFK3V32RnYeDlj1XlsVNOTUnG4LS7xyjt70GiWdX_Kb951KRxPPtUpu-VsHOl6YXy)/dm/3/xkxbzc/d/live-380.m3u8#cell=lcfc
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Mycomedy
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Tv Vendée - Le Direct
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Live dans les studios de Fun Radio
+https://live-c2.cf.dmcdn.net/sec2(FTnvcSUXlr01R2AI90eCVcXjWCkgsdjBWBqscUgYINynjG2spesFElKcL-oDEwnmD92D0YEUnlXvDHlNjB3ZbWtdVYi9df1ZIvFjEOiLa_hIlDGLTa0PYqKDFlDXTATr)/cloud/3/x7rk9ec/s/live-1080.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Live téléGrenoble Isère
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LMtv Sarthe en direct
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RADIO : Ecoutez et regardez Europe 1 en direct vidéo
+https://live-b.cf.dmcdn.net/sec2(Vzj4RzfogCze1U1V9chjSelIxK9yp8OPwZf7ty9taTjehkXd_7yFJgPUEFJ_0SVOsYx5ppPKbnqQ3ox3y2wmFLnsKRczWSBjoXF02feei-aMrv6Gp1ovdFrKgJwtr4qU)/dm/3/xqjkfz/d/live-380.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", 8 Mont Blanc Live
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Wéo direct Picardie
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Télévision Locale du Choletais
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Télénantes en Live !
+https://live-c.cf.dmcdn.net/sec2(-H5vfKYj82EsfoY2ioIzJwYWNeaOzURTXrsA1IXU_gj3yRnbVgP3YAF6G3zVVZKg5o389Jp-ocvgL1UN7wfo3sIImPKvqsol_Y9ocIs4SjLmu5DcaweRcO1ZmMY7MHqX)/dm/3/x5so98l/d/live-240.m3u8#cell=lcfc
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", TELESUD le direct
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", TL7 en direct
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", SUD RADIO EST EN DIRECT
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RTL2
+https://live-c2.cf.dmcdn.net/sec2(fXK8QHPVZ-717jxf6RgbHJ2WlTevv64d1MTkN3cY8mGg_Cg4bZXBo_dDLxSx6FYUDlW1D4U_Z7_dnMIzAaTQbS8a1x_DS_BqYM-sM9nGS781CwgqsepVpgugsvap-dTK)/cloud/3/x7rkbk4/s/live-1080.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Suivez nos émissions en direct
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", MOUV'
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Lyon Capitale TV
+https://live-c.cf.dmcdn.net/sec2(JKKYt_DiQQDBw6ZGw1AbK_A2HyZCaXcAOLLX3-r4Nu0Zv07SHBSt7eRmWzBTyh6GRxopsqNqOpQLEPzJ9QIVV7JcA5nHNtPbQBAfgUYbmtBoQBRsaB9nYpRcNjiII_3q)/dm/3/x7z3zqa/d/live-240.m3u8#cell=lcfc
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", VIDÉO - Regardez France Inter en direct
+https://live-c.cf.dmcdn.net/sec2(jAwM0hbwJDjvNAGbXXkk8BAGyC1nBwJjiNS03GfjSXhzcj7DzONKOYkT2B_Cpj_BTHL6N3vgz9m5PBtQ4ipDJGZ0ThGBKXERPcqpfwJYzkUsI2ab_a1kKpzagYAgSE-i)/dm/3/x17qw0a/s/live-380.m3u8#cell=lcfc
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", D5tv
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", D5Music
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Corsaire TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", 01TV le direct
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
