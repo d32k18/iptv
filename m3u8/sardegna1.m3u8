@@ -1,7 +1,2 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-c.cf.dmcdn.net/sec2(3fvcKZg5t-P3vLiQHWuFH4uB8H2ChbtngRjEOk666c3GOInuUtJwHwZ-66Dx4SiU441EkZmibsgBci_pz1VaFJZMzndvRtKId7ltpdJJxMw-6xaZeuj6sWN9hyRz7o61)/dm/3/x893du6/d/live-380.m3u8#cell=lcfc
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(3fvcKZg5t-P3vLiQHWuFH4uB8H2ChbtngRjEOk666c3GOInuUtJwHwZ-66Dx4SiU441EkZmibsgBci_pz1VaFJZMzndvRtKId7ltpdJJxMw-6xaZeuj6sWN9hyRz7o61)/dm/3/x893du6/d/live-240.m3u8#cell=lcfc
 
-#Last refreshed on 28/12/2024 12:51:58 CET by d32.
+#Last refreshed on 28/12/2024 14:10:08 CET by d32.
