@@ -1,0 +1,39 @@
+name: Merge XMLTV-RTL INFO-19h (20h22)
+
+on:
+  schedule:
+    - cron: '22 20 * * *'  # Exécuter tous les jours à 20h22 UTC (heure de Paris en été)
+  workflow_dispatch:  # Permet également de lancer manuellement le workflow
+
+permissions:
+  contents: write  # Permet d'effectuer un push sur le dépôt
+  
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run merge_xmltv_rtlinfo.py script
+        run: python scripts/merge_xmltv_rtlinfo.py
+
+      - name: Commit and push the changes
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "admin bot"
+          git add xml/xmltv_rtlinfo.xml
+          git commit -m "Fusion des fichiers XML automatique"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/d32k18/iptv.git
+
