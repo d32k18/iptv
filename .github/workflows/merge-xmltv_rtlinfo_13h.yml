@@ -35,5 +35,5 @@ jobs:
           git config --global user.name "admin bot"
           git add xml/xmltv_rtlinfo.xml
           git commit -m "Fusion des fichiers XML automatique"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/d32k18/iptv.git
+          git push
 
