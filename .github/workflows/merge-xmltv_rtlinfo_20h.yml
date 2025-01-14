@@ -29,11 +29,14 @@ jobs:
       - name: Run merge_xmltv_rtlinfo.py script
         run: python scripts/merge_xmltv_rtlinfo.py
 
-      - name: Commit and push the changes
+      - name: Check for changes
         run: |
           git config --global user.email "<>"
           git config --global user.name "admin bot"
           git add xml/xmltv_rtlinfo.xml
-          git commit -m "Fusion des fichiers XML automatique"
-          git push
-
+          if [[ $(git diff --cached --name-only) ]]; then
+            git commit -m "Fusion des fichiers XML automatique"
+            git push
+          else
+            echo "Aucune modification détectée, pas de commit à effectuer."
+          fi
