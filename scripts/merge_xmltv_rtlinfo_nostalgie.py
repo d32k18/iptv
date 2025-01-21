@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 
 # Chargement des trois fichiers XML
 tree1 = ET.parse('xml/rtlinfo_13h_19h.xml')
-tree2 = ET.parse('xml/radiocontact.xml')
+tree2 = ET.parse('xml/xmltv.xml')
 tree3 = ET.parse('xml/radionostalgie.xml')
 
 # Récupérer les racines des fichiers XML
@@ -27,6 +27,6 @@ for elem in root3:
 tree_merged = ET.ElementTree(root_merged)
 
 # Sauvegarder le fichier fusionné
-tree_merged.write('xml/contact_rtlinfo_nostalgie.xml', encoding='utf-8', xml_declaration=True)
+tree_merged.write('xml/xmltv_rtlinfo_nostalgie.xml', encoding='utf-8', xml_declaration=True)
 
-print("Les fichiers ont été fusionnés et sauvegardés sous 'contact_rtlinfo_nostalgie.xml'.")
+print("Les fichiers ont été fusionnés et sauvegardés sous 'xmltv_rtlinfo_nostalgie.xml'.")
