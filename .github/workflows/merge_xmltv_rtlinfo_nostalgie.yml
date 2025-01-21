@@ -1,4 +1,4 @@
-name: Merge Contact Rtlinfo Nostalgie
+name: Merge Xmltv Rtlinfo Nostalgie
 
 on:
   schedule:
@@ -27,12 +27,12 @@ jobs:
           pip install requests
 
       - name: Run merge_contact_rtlinfo_nostalgie.py script
-        run: python scripts/merge_contact_rtlinfo_nostalgie.py
+        run: python scripts/merge_xmltv_rtlinfo_nostalgie.py
 
       - name: Commit and push the changes
         run: |
           git config --global user.email "<>"
           git config --global user.name "admin bot"
-          git add xml/contact_rtlinfo_nostalgie.xml
+          git add xml/xmltv_rtlinfo_nostalgie.xml
           git commit -m "Fusion des fichiers XML automatique"
           git push
