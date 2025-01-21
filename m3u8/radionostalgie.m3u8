@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3268608,CODECS="avc1.4d002a,mp4a.40.2",RESOLUTION=1920x1080
+https://tv.ngroup.be/live/ngrp:nostalgie_all/chunklist_w1574272909_b3268608.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1626608,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=1280x720
+https://tv.ngroup.be/live/ngrp:nostalgie_all/chunklist_w1574272909_b1496608.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1131608,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360
+https://tv.ngroup.be/live/ngrp:nostalgie_all/chunklist_w1574272909_b1046608.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=581608,CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=426x240
+https://tv.ngroup.be/live/ngrp:nostalgie_all/chunklist_w1574272909_b546608.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=416608,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=284x160
+https://tv.ngroup.be/live/ngrp:nostalgie_all/chunklist_w1574272909_b396608.m3u8
+
+#Last refreshed on 21/01/2025 00:00:00 CET by d32.
