@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(i8zpdxytzBLXRVL8tCKiCDJqJ0XrRNdRggHFy1KHCAY9_I91rTVHy72QadG349udFkWDvNpjAAn48Atl8JHcyAbK3UGgXJTYEchQhpN5YVSw2ZgxZ3xGeayOlsBF_msD)/dm/3/x5gv5rr/d/live-380.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(gdn6vIsjk3xmsG-Jp5qi_nZybzVfnL6Y-z5env_bXBe3jWKIjo3eyIWdEz1L0INWECvQdFwju7FlH-YFXdHFybdvgI06E33vTYCKGXC86JAb-F2aRgbN4p3SpnyQ3Mbl)/dm/3/x5gv5rr/d/live-380.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-c.cf.dmcdn.net/sec2(losHAchL5F16GDCamiKQkYcoVYp7VZuWpmyji6V5UpnsEFUqO6Q9J0BTFOfoseWBzCwoEnYVvcMMfOQ2q4h-H7fsfc9dlhsCvqy4cvueRx1NtWt3_Cw7T7ActHEjI1AT)/dm/3/x5idx4k/d/live-380.m3u8
+https://live-c.cf.dmcdn.net/sec2(snQMF0B_CbCqdJna51r98X8SQgW8Fsll8caCVRMtO4bDhTbMv6EXABmidGyVkhVKsSk4930hK9Y-SnReoau12H044ZlBDvkeDNd2BqJYMKHxwRhm_jC1XRosw1eysHMx)/dm/3/x5idx4k/d/live-380.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(i8zpdxytzBLXRVL8tCKiCDJqJ0XrRNdRggHFy1KHCAY9_I91rTVHy72QadG349udFkWDvNpjAAn48Atl8JHcyAbK3UGgXJTYEchQhpN5YVSw2ZgxZ3xGeayOlsBF_msD)/dm/3/x5gv5rr/d/live-240.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(gdn6vIsjk3xmsG-Jp5qi_nZybzVfnL6Y-z5env_bXBe3jWKIjo3eyIWdEz1L0INWECvQdFwju7FlH-YFXdHFybdvgI06E33vTYCKGXC86JAb-F2aRgbN4p3SpnyQ3Mbl)/dm/3/x5gv5rr/d/live-240.m3u8#cell=lcfb
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(losHAchL5F16GDCamiKQkYcoVYp7VZuWpmyji6V5UpnsEFUqO6Q9J0BTFOfoseWBzCwoEnYVvcMMfOQ2q4h-H7fsfc9dlhsCvqy4cvueRx1NtWt3_Cw7T7ActHEjI1AT)/dm/3/x5idx4k/d/live-240.m3u8
+https://live-c.cf.dmcdn.net/sec2(snQMF0B_CbCqdJna51r98X8SQgW8Fsll8caCVRMtO4bDhTbMv6EXABmidGyVkhVKsSk4930hK9Y-SnReoau12H044ZlBDvkeDNd2BqJYMKHxwRhm_jC1XRosw1eysHMx)/dm/3/x5idx4k/d/live-240.m3u8
 
-#Last refreshed on 23/02/2025 05:46:29 CET by d32.
+#Last refreshed on 23/02/2025 09:45:49 CET by d32.
