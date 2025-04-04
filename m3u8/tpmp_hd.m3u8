@@ -1,13 +1,2 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.64001e,mp4a.40.2",NAME="480"
-https://live-c.cf.dmcdn.net/sec2(hc3Tdf0HOEjB1HN0po7dxSTKLcZDDkSe7SWEZWjQEykaO8calT7ICIXU3S7XjTaK5JoKZ0p1hjUtepSWfPfN18ibOO9LwfLqKazE3sKcGhHGEedZLtbYKj3veLEJhnmk)/dm/3/x9fclww/d/live-480.m3u8#cell=lcfc
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.64001e,mp4a.40.2",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(hc3Tdf0HOEjB1HN0po7dxSTKLcZDDkSe7SWEZWjQEykaO8calT7ICIXU3S7XjTaK5JoKZ0p1hjUtepSWfPfN18ibOO9LwfLqKazE3sKcGhHGEedZLtbYKj3veLEJhnmk)/dm/3/x9fclww/d/live-240.m3u8#cell=lcfc
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.64001e,mp4a.40.2",NAME="380"
-https://live-c.cf.dmcdn.net/sec2(hc3Tdf0HOEjB1HN0po7dxSTKLcZDDkSe7SWEZWjQEykaO8calT7ICIXU3S7XjTaK5JoKZ0p1hjUtepSWfPfN18ibOO9LwfLqKazE3sKcGhHGEedZLtbYKj3veLEJhnmk)/dm/3/x9fclww/d/live-380.m3u8#cell=lcfc
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=25.000000,BANDWIDTH=2179072,CODECS="avc1.64001e,mp4a.40.2",NAME="720"
-https://live-c.cf.dmcdn.net/sec2(hc3Tdf0HOEjB1HN0po7dxSTKLcZDDkSe7SWEZWjQEykaO8calT7ICIXU3S7XjTaK5JoKZ0p1hjUtepSWfPfN18ibOO9LwfLqKazE3sKcGhHGEedZLtbYKj3veLEJhnmk)/dm/3/x9fclww/d/live-720.m3u8#cell=lcfc
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=25.000000,BANDWIDTH=6275072,CODECS="avc1.64001e,mp4a.40.2",NAME="1080"
-https://live-c.cf.dmcdn.net/sec2(hc3Tdf0HOEjB1HN0po7dxSTKLcZDDkSe7SWEZWjQEykaO8calT7ICIXU3S7XjTaK5JoKZ0p1hjUtepSWfPfN18ibOO9LwfLqKazE3sKcGhHGEedZLtbYKj3veLEJhnmk)/dm/3/x9fclww/d/live-1080.m3u8#cell=lcfc
-
-#Last refreshed on 04/04/2025 11:49:06 CET by d32.
+Erreur lors de la récupération de l'URL m3u8: 'qualities'
+Erreur: Impossible de récupérer le fichier m3u8.
