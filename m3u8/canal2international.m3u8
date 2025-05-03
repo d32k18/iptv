@@ -1,7 +1,2 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=30.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(0pnDIuGqiAV61uHq7XNWB833UR0OPkEfu2UL9lXqdcAIEdMpyCBHEfJ1EZRvPjp8P4XcBy2W5ERlHNU3PzaIwLMALuxwJcx_wrEU-Dd_SiY8dIumT5ilPiWRfgnam4DP)/dm/3/x8t0282/s/live-380.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(0pnDIuGqiAV61uHq7XNWB833UR0OPkEfu2UL9lXqdcAIEdMpyCBHEfJ1EZRvPjp8P4XcBy2W5ERlHNU3PzaIwLMALuxwJcx_wrEU-Dd_SiY8dIumT5ilPiWRfgnam4DP)/dm/3/x8t0282/s/live-240.m3u8#cell=lcfb
-
-#Last refreshed on 03/05/2025 15:03:31 CET by d32.
+https://github.com/d32k18/iptv/raw/refs/heads/main/assets/no_stream0.mp4
+#Last refreshed on 03/05/2025 18:48:43 CET by d32.
