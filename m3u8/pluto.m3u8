@@ -559,7 +559,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/645e7828e1979c00087b75b4/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Game Shows",Supermarket Sweep
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/649ddbfb6f29ec000874ca9e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Competition Reality",Big Brother Camera 1
+#EXTINF:-1 group-title="Big Brother Live",Big Brother Camera 1
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64a765c04ea480000823917a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Movies",Pluto TV Icons
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64b585f84ea480000838e446/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -689,6 +689,8 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66621ed08ea5560008fde7c9/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666b265722acab000885c6aa/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",BET x Tyler Perry Drama
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666b38a5efa2a10008b15b3a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Big Brother Live",Big Brother
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666cc97764aca60008c31cd7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",Speed Sport 1
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675b8ccca74680008563c24/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",Ebony TV Drama
@@ -805,5 +807,5 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68487fb3f212bedacf5a53e3/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68509fe882d704acfc5bacd1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 13/07/2025 17:48:41 CET by d32.
+#Last refreshed on 13/07/2025 20:53:39 CET by d32.
 
