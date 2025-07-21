@@ -1,2 +1,5 @@
-https://github.com/d32k18/iptv/raw/refs/heads/main/assets/no_stream0.mp4
-#Last refreshed on 21/07/2025 15:23:48 CET by d32.
+#EXTM3U
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
+https://live.eu-north-1a.cf.dmcdn.net/sec2(nONN0Vi39nxU6Ulas8JBI_n7FvMVxxR_8mS7OWDRc_qzzHM2BufMbv9sOYnRFkjmgQfrARAz1NJlpHfgytxxBQKqwJxDeJ8B1HvYIx34e3_IrP75UDOoiNMv74DRxDwF)/dm/3/x8jqxru/d/live-240.m3u8#cell=lcf-eu-north-1a
+
+#Last refreshed on 21/07/2025 18:57:01 CET by d32.
