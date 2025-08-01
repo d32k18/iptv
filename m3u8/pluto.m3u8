@@ -501,10 +501,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b648c08cd050007d94114/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/633354b63df9700007f6a1b7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Entertainment",Movie Favorites By Lifetime
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Entertainment",Pluto TV Christmas in July
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63335df531a7590007c226b9/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="En Español",Cine navideño en Julio
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6334a4d7ae975100073994a2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",PFL MMA
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sci-Fi",Star Trek Voyager
@@ -589,8 +585,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64e561a4354251000823a0e0/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",FanDuel TV Extra
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Drama",More Crime Drama
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b6905d1f20c0008586b0c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Animals + Nature",EarthDay 365
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b69cfd1f20c0008586bac/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Reality",Dating Disasters
@@ -693,8 +687,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666b265722acab000885c6aa/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666b38a5efa2a10008b15b3a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Big Brother Live",Big Brother
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666cc97764aca60008c31cd7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Sports",Speed Sport 1
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675b8ccca74680008563c24/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",Ebony TV Drama
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c713fc3a46000863dde7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",Nash Bridges
@@ -785,6 +777,10 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb832/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6793ea255225b515b4ba91a7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Anime",ANIME x HIDIVE
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Entertainment",Degrassi VIDAA TEST
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/67c0a90621445314490642c8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Drama",Heartland VIDAA TEST
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/67c0ac57214453144906eb48/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Home + Food",The Martha Stewart Channel
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/67c62ac2095aea2ec805eb34/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Anime",Inuyasha
@@ -809,5 +805,5 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68487fb3f212bedacf5a53e3/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68509fe882d704acfc5bacd1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 01/08/2025 17:53:23 CET by d32.
+#Last refreshed on 01/08/2025 20:58:35 CET by d32.
 
