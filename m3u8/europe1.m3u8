@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qI_fB5yDdVhC5CUxYGCt1ee2XkLjveWWBZNhTPU3PsRVJVkbQGbHO6LuZA61J0zIth3xfaIhY3EYo_DgNJyhD6aXnQaBJwr8DOoF4sklY7ekjnCHCNSaPNRYQI_QYjW3)/cloud/3/xqjkfz/d/live-480@60.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hrUkzefWkvZYoEO2DudYyPpZNT9ORuugioG6KRH3bxxUHUsEQCiIs6W4fhrfYMHlBEqUuEAQbZoVUi8SoBBinwcNZRZrrmEazziIVYvqr3x49a7tYRaIfBeKUHahd6to)/cloud/3/xqjkfz/d/live-480@60.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qI_fB5yDdVhC5CUxYGCt1ee2XkLjveWWBZNhTPU3PsRVJVkbQGbHO6LuZA61J0zIth3xfaIhY3EYo_DgNJyhD6aXnQaBJwr8DOoF4sklY7ekjnCHCNSaPNRYQI_QYjW3)/cloud/3/xqjkfz/d/live-240.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hrUkzefWkvZYoEO2DudYyPpZNT9ORuugioG6KRH3bxxUHUsEQCiIs6W4fhrfYMHlBEqUuEAQbZoVUi8SoBBinwcNZRZrrmEazziIVYvqr3x49a7tYRaIfBeKUHahd6to)/cloud/3/xqjkfz/d/live-240.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(IEt_EHWgEYoX3x6RKbj98xUQagqXSkFebQUBPTjaqW-KhgWpHnnaI8g2wlX5gytG0gYPTitFPvQV7W93-dJ6gwA9dJHHRLRuap2UtKEzyTc6ssve56tG25P1IQUWyv7P)/cloud/3/x91kj9u/s/live-240.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(eZLLLYi5BzsaxVsUrJEqnnGJ0o58Qu7stHmq-mxCXzIBzG9qcT5XCHURhOpR8TlTrm98VMT5QzJ7J2PMvt7_S5WGttcJO9z4irlxMPFVhH3p3CB2LdTy0GQSYDeJ07nd)/cloud/3/x91kj9u/s/live-240.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qI_fB5yDdVhC5CUxYGCt1ee2XkLjveWWBZNhTPU3PsRVJVkbQGbHO6LuZA61J0zIth3xfaIhY3EYo_DgNJyhD6aXnQaBJwr8DOoF4sklY7ekjnCHCNSaPNRYQI_QYjW3)/cloud/3/xqjkfz/d/live-380.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hrUkzefWkvZYoEO2DudYyPpZNT9ORuugioG6KRH3bxxUHUsEQCiIs6W4fhrfYMHlBEqUuEAQbZoVUi8SoBBinwcNZRZrrmEazziIVYvqr3x49a7tYRaIfBeKUHahd6to)/cloud/3/xqjkfz/d/live-380.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(IEt_EHWgEYoX3x6RKbj98xUQagqXSkFebQUBPTjaqW-KhgWpHnnaI8g2wlX5gytG0gYPTitFPvQV7W93-dJ6gwA9dJHHRLRuap2UtKEzyTc6ssve56tG25P1IQUWyv7P)/cloud/3/x91kj9u/s/live-380.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(eZLLLYi5BzsaxVsUrJEqnnGJ0o58Qu7stHmq-mxCXzIBzG9qcT5XCHURhOpR8TlTrm98VMT5QzJ7J2PMvt7_S5WGttcJO9z4irlxMPFVhH3p3CB2LdTy0GQSYDeJ07nd)/cloud/3/x91kj9u/s/live-380.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=50.000000,BANDWIDTH=2691072,CODECS="avc1.640020,mp4a.40.2",NAME="720@60"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qI_fB5yDdVhC5CUxYGCt1ee2XkLjveWWBZNhTPU3PsRVJVkbQGbHO6LuZA61J0zIth3xfaIhY3EYo_DgNJyhD6aXnQaBJwr8DOoF4sklY7ekjnCHCNSaPNRYQI_QYjW3)/cloud/3/xqjkfz/d/live-720@60.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hrUkzefWkvZYoEO2DudYyPpZNT9ORuugioG6KRH3bxxUHUsEQCiIs6W4fhrfYMHlBEqUuEAQbZoVUi8SoBBinwcNZRZrrmEazziIVYvqr3x49a7tYRaIfBeKUHahd6to)/cloud/3/xqjkfz/d/live-720@60.m3u8#cell=lcf2-eu-north-1a
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60"
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(qI_fB5yDdVhC5CUxYGCt1ee2XkLjveWWBZNhTPU3PsRVJVkbQGbHO6LuZA61J0zIth3xfaIhY3EYo_DgNJyhD6aXnQaBJwr8DOoF4sklY7ekjnCHCNSaPNRYQI_QYjW3)/cloud/3/xqjkfz/d/live-1080@60.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hrUkzefWkvZYoEO2DudYyPpZNT9ORuugioG6KRH3bxxUHUsEQCiIs6W4fhrfYMHlBEqUuEAQbZoVUi8SoBBinwcNZRZrrmEazziIVYvqr3x49a7tYRaIfBeKUHahd6to)/cloud/3/xqjkfz/d/live-1080@60.m3u8#cell=lcf2-eu-north-1a
 
-#Last refreshed on 18/08/2025 18:55:21 CET by d32.
+#Last refreshed on 18/08/2025 22:47:17 CET by d32.
