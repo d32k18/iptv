@@ -807,6 +807,8 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/686c1c873ffa5e0c91a85938/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/686c2677ed17cf4c900a496d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Comedy",Black Family Sitcoms
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/686d61503484d6073283059d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Sports",Women's Sports Network
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/686d8dd294a028da3ac59566/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Competition Reality",America's Next Top Model
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68757c45759366af05b3b199/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Competition Reality",Project Runway
@@ -817,9 +819,19 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68758038552299d2b08162e3/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Daytime TV",Beyond the Gates
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/687ff00ff6bc08130f16ab81/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="True Crime",Live PD Presents
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887a4e01067b66fa16966ec/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Reality",Matched Married Meet by Lifetime
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887a86be3703b7d42b3eca3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Reality",Ancient Aliens
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887a8fd8e92b5e0a7244e88/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="True Crime",The First 48 by A&E
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887aaade3703b7d42b64be8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Reality",Storage Wars by A&E
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887aaf4e3703b7d42b71a1e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Classic TV",Hogan's Heroes
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68939e206727ec919bb39061/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 18/09/2025 17:48:03 CET by d32.
+#Last refreshed on 18/09/2025 20:52:25 CET by d32.
 
