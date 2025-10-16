@@ -41,7 +41,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="True Crime",Pluto TV True Crime
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",BUZZR
+#EXTINF:-1 group-title="Daytime + Game Shows",BUZZR
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Entertainment",Live Music
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -67,7 +67,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="True Crime",The New Detectives
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Nosey
+#EXTINF:-1 group-title="Daytime + Game Shows",Nosey
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5aec96ec5126c2157123c657/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Movies",Pluto TV Thrillers
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -91,7 +91,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="History + Science",Pluto TV Military
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",QVC
+#EXTINF:-1 group-title="Daytime + Game Shows",QVC
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5bdcdf1e851dd5632e2c11d1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Reality",Dog the Bounty Hunter
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -231,7 +231,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e1f7da4bc7d740009831259/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="News + Opinion",Blaze Live
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Game Show Central
+#EXTINF:-1 group-title="Daytime + Game Shows",Game Show Central
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",MLB
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -251,9 +251,9 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="En Español",Crímenes imperfectos
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Deal or No Deal
+#EXTINF:-1 group-title="Daytime + Game Shows",Deal or No Deal
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Judge Nosey
+#EXTINF:-1 group-title="Daytime + Game Shows",Judge Nosey
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e9decb953e157000752321c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",CBS Sports HQ
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -325,7 +325,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Anime",One Piece
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",The Price Is Right: The Barker Era
+#EXTINF:-1 group-title="Daytime + Game Shows",The Price Is Right: The Barker Era
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Comedy",Family Ties
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -339,7 +339,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f7796e470510900070d4e3d/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Music Videos",Classica
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",HSN
+#EXTINF:-1 group-title="Daytime + Game Shows",HSN
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Ryan and Friends
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5fb584b7613a31000789de5a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -363,9 +363,9 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Home + Food",Tiny House Nation
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Hot Bench
+#EXTINF:-1 group-title="Daytime + Game Shows",Hot Bench
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Pluto TV Game Shows
+#EXTINF:-1 group-title="Daytime + Game Shows",Pluto TV Game Shows
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Competition Reality",Pluto TV Competition
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -401,7 +401,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60f754f98185580007eb0754/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Local News",CBS News Baltimore
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60f75919718aed0007250d7a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Best of Dr. Phil
+#EXTINF:-1 group-title="Daytime + Game Shows",Best of Dr. Phil
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Classic TV",BET Classics
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60f85644a9493e0007a1f035/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -451,8 +451,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61bd0b57872c650008ed2e38/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Music Videos",Vevo True School Hip-Hop
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="News + Opinion",WeatherNation Chicago
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61e9d0509e38ec0007a299dd/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",Heartland
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61f07513227feb00073ee6bc/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Westerns",Classic Movie Westerns
@@ -465,22 +463,24 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/623a1b5188ecdc0007c9ef5a/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Music Videos",XITE Gospel
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Let's Make A Deal
+#EXTINF:-1 group-title="Daytime + Game Shows",Let's Make A Deal
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6267352efcf21c0007c76642/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Reality",Cheaters
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/627d355aa95efd00077afcc7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",The Judge Judy Channel
+#EXTINF:-1 group-title="Daytime + Game Shows",The Judge Judy Channel
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="News + Opinion",WeatherNation Raleigh-Durham
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/628c274a02000400070a3ae4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Entertainment",Hallmark Movies & More
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Gaming + Anime",Pluto TV Anime
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Movies",00s Replay
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="News + Opinion",CBS News Chicago
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="News + Opinion",CBS News Texas
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62cdc813f5def500070361eb/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="News + Opinion",CBS News Philadelphia
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62cdca1cda044a00077b903d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",CSI: Miami
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c304/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",CSI: NY
@@ -491,6 +491,12 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62fa8176b9884200074ef5ae/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="En Español",CSI: NY en español
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Local News",WFTV Orlando
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b6233822bbc000748fd81/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Local News",WSB Atlanta
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b642933a6280007aaf265/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Local News",WSOC Charlotte
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b648c08cd050007d94114/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Comedy",Sitcom Legends
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/633354b63df9700007f6a1b7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Entertainment",Movie Favorites By Lifetime
@@ -499,7 +505,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sci-Fi",Star Trek Voyager
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Confess by Nosey
+#EXTINF:-1 group-title="Daytime + Game Shows",Confess by Nosey
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/634ee8f95aa9870007248333/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Local News",CBS News Detroit
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/634f2610d5023700078f7dee/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -529,9 +535,9 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6400f731d200410008f9b339/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="News + Opinion",FOX Weather
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/640a68880e884c0009979cc2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",The Price Is Right
+#EXTINF:-1 group-title="Daytime + Game Shows",The Price Is Right
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/643f035d5a0cd50008361534/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Family Feud Classic
+#EXTINF:-1 group-title="Daytime + Game Shows",Family Feud Classic
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/643f03b9d8436e0008edf021/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",iCarly TV
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -543,7 +549,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/645e7828e1979c00087b75b4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",DAZN Ringside
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Supermarket Sweep
+#EXTINF:-1 group-title="Daytime + Game Shows",Supermarket Sweep
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/649ddbfb6f29ec000874ca9e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Movies",Pluto TV Icons
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64b585f84ea480000838e446/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -627,8 +633,8 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6565430c9d5ac4000822f508/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65775af3b3801200084a3aa4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="History + Science",Modern Marvels Presented by HISTORY
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65775d29dfed030008cb3db2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Local News",NBC Chicago News
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65790922b3801200084e57f1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="En Español",Telemundo Noticias Noreste
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65791199dfed030008d031d3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Westerns",The Lone Ranger
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sci-Fi",Universal Monsters
@@ -667,8 +673,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c713fc3a46000863dde7/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c742ca74680008566b88/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Pokémon
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Local News",FOX 32 Chicago
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/667f2bc063a5f20008f4d386/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Go Go Gadget!
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/667f3852efa2a10008e1e514/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Strawberry Shortcake and Friends
@@ -709,7 +713,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66e0b4a3f0f17500085cc268/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66fedd65d7de140008dccd66/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Home + Food",No Reservations
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66ff0cf663292d0008320cf8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Family Feud
+#EXTINF:-1 group-title="Daytime + Game Shows",Family Feud
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/672e4d915534bb0008c50168/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Movies",Pluto TV Trending Now
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/673247127d5da5000817b4d6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -731,7 +735,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/674f735a2fb8a100087bf253/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/677d672ef090ab00085b8e9b/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",UFC
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/677d9adfa9a51b0008497fa0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",QVC2
+#EXTINF:-1 group-title="Daytime + Game Shows",QVC2
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/67817323dd7846fe546940dd/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Comedy",Sketchy AF
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/67882c1c7b11714b795c2008/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -781,13 +785,13 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/686d8dd294a028da3ac59566/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68757c45759366af05b3b199/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Competition Reality",Project Runway
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68757c60552299d2b080eab6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Tony Robbins Network
+#EXTINF:-1 group-title="Daytime + Game Shows",Tony Robbins Network
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68757effdf333e336be1e49f/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",Law & Order
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68758038552299d2b08162e3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="En Español",Más adrenalina
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Daytime TV",Beyond the Gates
+#EXTINF:-1 group-title="Daytime + Game Shows",Beyond the Gates
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/687ff00ff6bc08130f16ab81/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="True Crime",Live PD Presents
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887a4e01067b66fa16966ec/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -819,5 +823,5 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68bb16e7f89c82a68bcc4397/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68c32d88f56983aba40052bd/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 15/10/2025 23:48:03 CET by d32.
+#Last refreshed on 16/10/2025 04:14:12 CET by d32.
 
