@@ -499,7 +499,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/633354b63df9700007f6a1b7/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",PFL MMA
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Sci-Fi",Star Trek Voyager
+#EXTINF:-1 group-title="Sci-Fi",Star Trek: Voyager
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Daytime + Game Shows",Confess by Nosey
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/634ee8f95aa9870007248333/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -633,7 +633,7 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65a6dafb7bdc8d0008473c85/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sports",Monster Jam
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65c69b683ba51e00084534a3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Sci-Fi",Star Trek Deep Space Nine
+#EXTINF:-1 group-title="Sci-Fi",Star Trek: Deep Space Nine
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Reality",Tough Jobs
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65c69bf23ef47d0008583967/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
@@ -817,7 +817,11 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6913e381b6bf26bb6e798c13/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/691cf0410a78a9ce61ad2121/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Entertainment",El Rey Rebel
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/691d1200c2185a44642f5e7c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Sci-Fi",Star Trek: Enterprise
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/695c32671ca20bb8ca7fd8f7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Sci-Fi",Star Trek: The Next Generation
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/695c32e61ca20bb8ca802eb9/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 15/01/2026 17:00:48 CET by d32.
+#Last refreshed on 15/01/2026 20:04:41 CET by d32.
 
