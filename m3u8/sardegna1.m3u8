@@ -1,7 +1,2 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live.eu-north-1b.cf.dmcdn.net/sec2(u50i9WAzE81kg9dq_f6CMOpSRRjPAHz6K_eXx1EHyAwvXnjUCQz70erMkY4PjnFnFt7i-63q_GJdV6V0VgvJ3cZ75s3E71-1OdDXijsFqHRsxMDVtvg_CiW1ISXQMJd8)/dm/3/x893du6/d/live-380.m3u8#cell=lcf-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live.eu-north-1b.cf.dmcdn.net/sec2(u50i9WAzE81kg9dq_f6CMOpSRRjPAHz6K_eXx1EHyAwvXnjUCQz70erMkY4PjnFnFt7i-63q_GJdV6V0VgvJ3cZ75s3E71-1OdDXijsFqHRsxMDVtvg_CiW1ISXQMJd8)/dm/3/x893du6/d/live-240.m3u8#cell=lcf-eu-north-1b
-
-#Last refreshed on 29/01/2026 06:31:05 CET by d32.
+https://github.com/d32k18/iptv/raw/refs/heads/main/assets/no_stream0.mp4
+#Last refreshed on 29/01/2026 10:22:41 CET by d32.
