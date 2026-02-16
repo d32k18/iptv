@@ -285,8 +285,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sci-Fi",Star Trek
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Valentine's Day",Pluto TV Love Stories
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Classic TV",Classic TV Comedy
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b297f96000768f928/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Classic TV",Classic TV Drama
@@ -695,8 +693,6 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66e0b4a3f0f17500085cc268/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66fedd65d7de140008dccd66/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Home + Food",No Reservations
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66ff0cf663292d0008320cf8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
-#EXTINF:-1 group-title="Valentine's Day",Stingray Holidayscapes
-https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66ff1d5a565d3a000892bdcd/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Daytime + Game Shows",Family Feud
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/672e4d915534bb0008c50168/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Movies",Pluto TV Trending Now
@@ -813,11 +809,21 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6913e381b6bf26bb6e798c13/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/691cf0410a78a9ce61ad2121/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Entertainment",El Rey Rebel
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/691d1200c2185a44642f5e7c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Music Videos",TikTok Radio
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/69445a9a78c0c45b6c9aa8b9/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Sci-Fi",Star Trek: The Next Generation
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/695c32e61ca20bb8ca802eb9/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Music Videos",Stingray DJAZZ
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/696689d13b9ce349c9be3a18/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Anime",Boruto: Naruto Next Generations
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/696997049889f8db34c936c2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Music Videos",Qello Concerts
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/696998915a0ae9e1b563f0c6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Animals + Nature",ZenLIFE by Stingray
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/696998dfa2b623e8b20125a3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Reality",World of Love Island
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/69699b6d23ea437206f4a036/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 16/02/2026 17:23:34 CET by d32.
+#Last refreshed on 16/02/2026 20:20:38 CET by d32.
 
