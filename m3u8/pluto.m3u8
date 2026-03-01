@@ -371,6 +371,8 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6036e7c385749f00075dbd3b/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="En Español",CSI en Español
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="En Español",Star Trek en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="En Español",Estrella News
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Little Angel's Playroom en Español
@@ -663,6 +665,8 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c713fc3a46000863dde7/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c742ca74680008566b88/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Pokémon
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Movies",Star Trek: The Motion Pictures
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6675c88da1d7ad00084762cb/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Local News",FOX LOCAL Chicago
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/667f2bc063a5f20008f4d386/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Kids",Go Go Gadget!
@@ -833,5 +837,5 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/696998dfa2b623e8b20125a3/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/69699b6d23ea437206f4a036/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 01/03/2026 14:26:02 CET by d32.
+#Last refreshed on 01/03/2026 16:52:50 CET by d32.
 
