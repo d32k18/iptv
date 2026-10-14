@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:7
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_1",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(4FnY4Icj6cjxFnjX9uY58L0tWI44y-ZqbAZxPnL-tzvRVKYtY2F63gXBmZCtHCh4QdcML-NG3P4vZ4xowIFexTvq5otEh5B7_u_P_aHKoa7PYEjyaDxIW7XusgGq-lzjuIbWkR9m7SXlD9S0BZXHOr7E1DVr_WFsqHqe8dQ1CQPS3IiMgboyGnokHQXbdLls)/dm/4/x7teocz/live-aac-64.m3u8#cell=lcf-eu-north-1a"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="audio_2",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(4FnY4Icj6cjxFnjX9uY58L0tWI44y-ZqbAZxPnL-tzvRVKYtY2F63gXBmZCtHCh4QdcML-NG3P4vZ4xowIFexTvq5otEh5B7_u_P_aHKoa7PYEjyaDxIW7XusgGq-lzjuIbWkR9m7SXlD9S0BZXHOr7E1DVr_WFsqHqe8dQ1CQPS3IiMgboyGnokHQXbdLls)/dm/4/x7teocz/live-aac-128.m3u8#cell=lcf-eu-north-1a"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_1",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(-uHYaXUt_9BG6GUY4f4S7V7iDgyg_apauMVqtW6NiK7Lw1UtakTqaTMV60aeeuqKq_W23CB5taURYfZ8JTb8jCDF0w1YjXVQrm7EYWpJgvQ8DpbPXFs5S6gCNWMDG0SPk2gs4w1Nbw4VwVWYbcGFc79JSL59oOGi3dtCztMbJA3M-2ObB4fBcS4oFUcBsbep)/dm/4/x7teocz/live-aac-64.m3u8#cell=lcf-eu-north-1a"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A2",NAME="audio_2",DEFAULT=YES,CHANNELS="2",URI="https://live.eu-north-1a.cf.dmcdn.net/sec2(-uHYaXUt_9BG6GUY4f4S7V7iDgyg_apauMVqtW6NiK7Lw1UtakTqaTMV60aeeuqKq_W23CB5taURYfZ8JTb8jCDF0w1YjXVQrm7EYWpJgvQ8DpbPXFs5S6gCNWMDG0SPk2gs4w1Nbw4VwVWYbcGFc79JSL59oOGi3dtCztMbJA3M-2ObB4fBcS4oFUcBsbep)/dm/4/x7teocz/live-aac-128.m3u8#cell=lcf-eu-north-1a"
 #EXT-X-STREAM-INF:BANDWIDTH=475136,RESOLUTION=320x180,CODECS="avc1.42000d,mp4a.40.5",NAME="240",AUDIO="group_A1"
-https://live.eu-north-1a.cf.dmcdn.net/sec2(4FnY4Icj6cjxFnjX9uY58L0tWI44y-ZqbAZxPnL-tzvRVKYtY2F63gXBmZCtHCh4QdcML-NG3P4vZ4xowIFexTvq5otEh5B7_u_P_aHKoa7PYEjyaDxIW7XusgGq-lzjuIbWkR9m7SXlD9S0BZXHOr7E1DVr_WFsqHqe8dQ1CQPS3IiMgboyGnokHQXbdLls)/dm/4/x7teocz/live-h264-240.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1a.cf.dmcdn.net/sec2(-uHYaXUt_9BG6GUY4f4S7V7iDgyg_apauMVqtW6NiK7Lw1UtakTqaTMV60aeeuqKq_W23CB5taURYfZ8JTb8jCDF0w1YjXVQrm7EYWpJgvQ8DpbPXFs5S6gCNWMDG0SPk2gs4w1Nbw4VwVWYbcGFc79JSL59oOGi3dtCztMbJA3M-2ObB4fBcS4oFUcBsbep)/dm/4/x7teocz/live-h264-240.m3u8#cell=lcf-eu-north-1a
 
-#Last refreshed on 14/10/2026 01:50:38 CET by d32.
+#Last refreshed on 14/10/2026 07:20:03 CET by d32.
