@@ -847,6 +847,10 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a2b0eab9465b98649cd0d2f/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a2b0edf201df02a8bfea30a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Westerns",Dr. Quinn, Medicine Woman
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a2b0f2509705ebdf781231d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Entertainment",Penn & Teller: Fool Us (CW)
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a304723ff3691f8e68a2e74/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 group-title="Sports",CW Presents WWE NXT
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a30478d0be0264f4a4e227c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Anime",Big A Anime
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a3c5fa46276c42ac6726b27/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 group-title="Drama",Jane the Virgin
@@ -883,5 +887,5 @@ https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6aab1f18c349e6a78bb489ad/m
 https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6ab165fdeae99d62d7e541ff/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 
 
-#Last refreshed on 27/10/2026 16:31:50 CET by d32.
+#Last refreshed on 27/10/2026 21:13:20 CET by d32.
 
